@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\CoreApp\CoreApp
+--output-path=obj\release\netcoreapp2.0\
+--application-name=CoreApp
+--content-root=C:\Users\user\source\repos\CoreApp\CoreApp
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\About.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\Contact.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\Error.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\Index.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\_Layout.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\_ViewImports.cshtml
+--file=C:\Users\user\source\repos\CoreApp\CoreApp\Pages\_ViewStart.cshtml

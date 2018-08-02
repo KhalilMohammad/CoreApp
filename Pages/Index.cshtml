@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<form method="post">
+    <label>Name</label>
+    <input type="text" asp-for="Users.Name" />
+    <button type="submit">Add</button>
+</form>
+
+<div>
+    <table>
+        <tbody>
+            <tr>
+                <th>User name</th>
+            </tr>
+            @foreach (var user in Model.UserList)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+</div>
